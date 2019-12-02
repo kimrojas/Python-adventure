@@ -1,6 +1,6 @@
 # Python-adventure
 
-![alt text](https://github.com/kimrojas/Python-adventure/blob/master/887210ba6161a6425acb7cb62479202c.jpg)
+![alt text](https://github.com/kimrojas/Python-adventure/blob/master/readmeimg.jpg)
 
 This repository is a collection of my code/guides that I have done along my adventures with python. 
 

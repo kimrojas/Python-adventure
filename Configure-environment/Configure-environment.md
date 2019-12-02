@@ -1,12 +1,14 @@
 # PYTHON CONFIGURATION FOR WINDOWS
 
-## A. Download Anaconda 
+## Anaconda setup 
+
+### A.1: Download Anaconda 
 
 Simply download and install Anaconda (python) and keep on pressing 'next' on the installer
 
 https://www.anaconda.com/distribution/#download-section
 
-### A.1: Add **conda-forge** channel
+### A.2: Add **conda-forge** channel
 
 Note: conda-forge is source of new packages and also some more that are not included in the default
 
@@ -17,10 +19,10 @@ conda config --add channels conda-forge
 conda config --set channel_priority strict
 ```
 
-### A.2: Anaconda Navigator 
+### A.3: Anaconda Navigator 
 **(~more non-techy friendly but so very slow! 10/10 don't recommend)**
 
-#### Configure first environment
+#### Configure custom environment
 
 1. Launch Anaconda Navigator
 2. Go to Environments
