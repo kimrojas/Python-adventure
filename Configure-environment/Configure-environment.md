@@ -130,8 +130,12 @@ Feature:
 
 1. Download Pycharm (https://www.jetbrains.com/pycharm/) - COMMUNITY VERSION \
 \
-Note: There are two versions. The Community (free) and the Professional (paid). The professional version has A LOT more features (Scientific, Web Python dev. etc,). This is great but this also means it will need more CPU strength which will make it run slower (startup loading). Since I use a laptop and would like to extend my battery usage, I only use the Community (Free) edition which is adequate enough for my studies (computational physics). 
+Note: There are two versions. The Community (free) and the Professional (paid). The professional version has A LOT more features (Scientific, Web Python dev. etc,). This is great but this also means it will need more CPU strength which will make it run slower (startup loading). Since I use a laptop and would like to extend my battery usage, I only use the Community (Free) edition which is adequate enough for my studies (computational physics). \
+\
+ALSO IMPORTANT: Professional is free for students and educators (~I think). Feel free to try. 
 
-ALSO IMPORTANT: Professional is free for students and educators (I think). Feel free to try. 
-
-2. Install 
+2. Install \
+\
+- Yes to all
+- Tick 64-bit launcher (Create Desktop Shortcut setting)
+- Tick Add "Open Folder as Project" (Update context menu)
