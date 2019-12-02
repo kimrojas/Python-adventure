@@ -1,5 +1,7 @@
 # Python-adventure
 
+![alt text](https://github.com/kimrojas/cluster_setup/blob/master/kraken.JPG)
+
 This repository is a collection of my code/guides that I have done along my adventures with python. 
 
 Disclaimer: None of these codes are totally original, and in fact they are codes from various tutorial
