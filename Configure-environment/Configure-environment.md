@@ -31,7 +31,7 @@ conda config --set channel_priority strict
 5. Select Python 3.7
 6. Press 'create'
 
-![alt text](https://github.com/kimrojas/Python-adventure/blob/master/Configure-environment/img1.png)
+![alt text](https://github.com/kimrojas/Python-adventure/blob/master/Configure-environment/img/img1.png)
 
 #### Update packages
 
@@ -39,8 +39,8 @@ conda config --set channel_priority strict
 2. click 'apply'
 3. Do this for all other packages you need to update 
 
-![alt text](https://github.com/kimrojas/Python-adventure/blob/master/Configure-environment/img2.png)
-![alt text](https://github.com/kimrojas/Python-adventure/blob/master/Configure-environment/img3.png)
+![alt text](https://github.com/kimrojas/Python-adventure/blob/master/Configure-environment/img/img2.png)
+![alt text](https://github.com/kimrojas/Python-adventure/blob/master/Configure-environment/img/img3.png)
 
 #### Add a package you need
 
@@ -59,7 +59,7 @@ Note: For me I also install the following as my daily use packages
 - matplotlib
 
 
-![alt text](https://github.com/kimrojas/Python-adventure/blob/master/Configure-environment/img4.png)
+![alt text](https://github.com/kimrojas/Python-adventure/blob/master/Configure-environment/img/img4.png)
 
 ### Anaconda prompt (~ I personally like this more)
 
