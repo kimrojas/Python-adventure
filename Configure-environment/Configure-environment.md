@@ -6,7 +6,7 @@ Simply download and install Anaconda (python) and keep on pressing 'next' on the
 
 https://www.anaconda.com/distribution/#download-section
 
-### A.1: Add `conda-forge` channel
+### A.1: Add **conda-forge** channel
 
 Note: conda-forge is source of new packages and also some more that are not included in the default
 
@@ -17,7 +17,8 @@ conda config --add channels conda-forge
 conda config --set channel_priority strict
 ```
 
-### Anaconda Navigator (~more non-techy friendly but so very slow! 10/10 don't recommend)
+### A.2: Anaconda Navigator 
+**(~more non-techy friendly but so very slow! 10/10 don't recommend)**
 
 #### Configure first environment
 
